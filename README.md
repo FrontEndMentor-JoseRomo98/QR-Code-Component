@@ -33,8 +33,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
   
-[PlaceHoder]
-![](./screenshot.jpg)
+![](./screenshots/1080p%20Desktop-1704844141286.jpeg)
+![](./screenshots/iPhone%2012%20Pro-1704844149281.jpeg)
 
  
 
