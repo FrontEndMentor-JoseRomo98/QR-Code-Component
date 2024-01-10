@@ -48,9 +48,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   
 
-- Solution URL: [Solution]([https://github.com/FrontEndMentor-JoseRomo98/QR-Code-Component])
+- Solution URL: [Solution](https://github.com/FrontEndMentor-JoseRomo98/QR-Code-Component)
 
-- Live Site URL: [LivePage]([https://frontendmentor-joseromo98.github.io/QR-Code-Component])
+- Live Site URL: [LivePage](https://frontendmentor-joseromo98.github.io/QR-Code-Component)
 
   
 
